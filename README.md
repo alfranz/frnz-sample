@@ -12,7 +12,7 @@ _This is part of a blog post series on [the personal data science toolkit](http:
 You can clone this repo or install it via pip with
 
 ```
-pip install git+http://github.com/alfranz/... 
+pip install -e git+https://github.com/alfranz/frnz-sample.git@master#egg=frnz
 ```
 
 After the installation, you can start using the package and its functions in your re-curring analytics tasks. 
