@@ -2,8 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-> your person python toolkit for data science.
-
 _This is part of a blog post series on [the personal python data science toolkit](http://www.alexfranz.com/posts/personal-python-data-science-toolkit-part-1/) 🛠_
 
 
